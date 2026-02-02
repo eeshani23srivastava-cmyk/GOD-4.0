@@ -17,7 +17,7 @@ const siteConfig = {
       'Summarize your education or certifications briefly and highlight your practical work.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
+    tagline: 'I build data-driven solutions to real world problems.',
     location: 'Bangalore, India',
   },
 
