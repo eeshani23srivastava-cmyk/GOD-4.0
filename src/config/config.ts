@@ -18,7 +18,7 @@ const siteConfig = {
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
     tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+    location: 'Bangalore, India',
   },
 
   seo: {
