@@ -10,11 +10,11 @@ const siteConfig = {
     title: 'Undergraduate Student| Aspiring Data Scientist',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'I am an undergratuate student pursuing BSc in Economics with Data Science at Christ (Deemed to be) University. My focus lies in applying economic theory and data analysis to understand real world markets, consumer behavior and policy issues.\n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      'I study at Christ (Deemed to be University) with academic interests in applied economics, statistics, data science, and research-based analysis. My work involves building data-backed economic reports, presentations, and analytical projects..\n' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
+      'I am currently completing my undergraduate degree in Economics with Data Science, gaining hands-on experience through coursework, assignments, and research projects that integrate economic models with data-driven tools..\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
     tagline: 'I build data-driven solutions to real world problems.',
@@ -26,7 +26,7 @@ const siteConfig = {
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
-  animatedText: ['Your Role', 'Your Focus', 'Your Interest', 'Builder'],
+  animatedText: [ 'Data ANALYSIS', 'Data Science', 'Builder'],
 
   navigation: [
     { name: 'Home', url: '/' },
